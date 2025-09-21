@@ -1,4 +1,4 @@
-# ROEStarterpack
+# ROE Starter pack
 
 ## Rules of Engagement Outline
 Purpose & Approval
