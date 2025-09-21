@@ -89,5 +89,9 @@ Any safety, legal, or regulatory risk
 Discovery of sensitive data outside of the scope
 Unintended service outage or degradation in performance
 
+## Evidence links:
+[Weekly Reflection](
+[Rules of Engagement Example](
+
 ## Reflection
 I had a mixed response to writing up the rules of enforcement document that would resemble something close to what you'd say today. While I got the chance to skim through a documented rules of enforcement, I would love to actually sit down and read the document and how it is detailed. That way in the future, If i ever have to make or sign off on a rules of engagement for a future penetration testing, I would like to know what all might be written down. 
